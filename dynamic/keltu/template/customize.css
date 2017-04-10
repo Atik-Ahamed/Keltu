@@ -13,14 +13,13 @@ body {
 }
 
 #kel_home {
-	width: 50%;
-	height: 50%;
-	
+    width: 41%;
+    height: 42%;
 }
 #chat {
-	
-	box-shadow: 3px 4px 20px 5px rgba(140, 184, 92, 0.92);
-	
+    box-shadow: 3px 4px 20px 5px rgba(93, 92, 184, 0.88);
+    margin-top: 5%;
+    /* background-color: black; */
 }
 
 
