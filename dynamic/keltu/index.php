@@ -21,7 +21,7 @@ include ('config/setup.php');
             ?>
 		    
 			<div id="mainbody" class="container">
-						<h1><?php echo $page['header']; ?></h1>
+						<h2 class="text-center"><?php echo $page['header']; ?></h2>
 						
 						<div class="container"><?php echo $page['body']; ?></div>
 				</div>

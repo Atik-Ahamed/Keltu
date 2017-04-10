@@ -19,6 +19,7 @@ body {
 #chat {
     box-shadow: 3px 4px 20px 5px rgba(93, 92, 184, 0.88);
     margin-top: 5%;
+    margin-bottom:2%;
     /* background-color: black; */
 }
 
@@ -27,7 +28,7 @@ body {
 {
   width: 100px;
 	height: 100px;
-	background: red;
+	background: rgba(75, 189, 68, 0.82);
 	-moz-border-radius: 50px;
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
@@ -47,4 +48,9 @@ body {
 }
 a{
     text-decoration:none;
+}
+p, h3, h2 {
+   
+    font-family: monospace;
+    /* color: black; */
 }
