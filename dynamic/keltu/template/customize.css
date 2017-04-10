@@ -1,0 +1,51 @@
+#mainbody {
+	background-color: #eee;
+	margin-top: 50px;
+    opacity:.8;
+}
+body {
+	background-image:url(background.jpg);
+	
+}
+.navbar {
+	box-shadow: 7px 6px 20px rgba(51, 98, 183, 0.56);
+	opacity: .8;
+}
+
+#kel_home {
+	width: 50%;
+	height: 50%;
+	
+}
+#chat {
+	
+	box-shadow: 3px 4px 20px 5px rgba(140, 184, 92, 0.92);
+	
+}
+
+
+#atik
+{
+  width: 100px;
+	height: 100px;
+	background: red;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+  float:left;
+  margin:5px;
+}
+.count
+{
+  line-height: 100px;
+  color:white;
+  margin-left:30px;
+  font-size:25px;
+}
+.contents {
+    float: left;
+    margin-right: 15%;
+}
+a{
+    text-decoration:none;
+}
