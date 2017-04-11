@@ -50,7 +50,8 @@ body {
 }
 .contents {
     float: left;
-    margin-right: 15%;
+    margin-right: 9%;
+    margin-left: 6%;
 }
 a{
     text-decoration:none;
@@ -59,4 +60,14 @@ p, h3, h2 {
    
     font-family: monospace;
     /* color: black; */
+}
+.joinUs {
+    margin-top: 27%;
+    margin-bottom: 32%;
+    touch-action: initial;
+    color: blue;
+}
+.pic {
+    margin-top: 4%;
+    margin-bottom: -12%;
 }
